@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Assignment 4: Trainer output dirs and regenerated raw extractions
+distilgpt2-full-finetuned/
+distilgpt2-lora-finetuned/
+source_documents/*_raw.txt
